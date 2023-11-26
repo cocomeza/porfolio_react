@@ -1,0 +1,13 @@
+
+.intro-container {
+    text-align: center;
+    padding: 30px;
+    margin: 20px;
+  }
+  
+.logo {
+    width: 200px; 
+    height: auto; 
+    border-radius: 50%;
+
+  }

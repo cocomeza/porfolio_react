@@ -1,0 +1,34 @@
+
+.skills-container {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: rgb(31, 20, 2);
+  }
+  
+  .skills-list {
+    text-align: center;
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 3rem;
+  }
+  
+  .skills-list li {
+    margin-bottom: 8px;
+    
+  
+  }
+
+  h2{
+    text-align: center;
+    color: black;
+  }
+
+  img{
+    width: 150px;
+    height: 150px;
+  
+  }
+  

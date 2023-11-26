@@ -1,0 +1,25 @@
+
+
+#proyectos {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .proyecto {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .proyecto h3 {
+    color: white;
+  }
+  
+  .proyecto p {
+    color: white;
+  }
+  
+  a{
+    color: white;
+  }

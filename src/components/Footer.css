@@ -1,0 +1,18 @@
+.icons{
+    border: solid 1px blueviolet;
+    padding: 15px;
+    text-align: center;
+    
+
+    
+}
+
+.icons a{
+    display: inline;
+    margin-right: 20px;
+    margin-left: 20px;
+
+    color: white;
+
+}
+
